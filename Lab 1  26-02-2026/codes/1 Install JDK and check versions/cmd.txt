@@ -1,0 +1,2 @@
+    java -version   => for JAVA interpreter version (VRE)
+    javac -version  => for JDK version

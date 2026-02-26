@@ -1,0 +1,9 @@
+- install JSK and check the Java Compiler version and Java interpreter version installed ✅
+- Create a Java source file named MultiClassDemo.java that contains three classes: ✅
+- Create a program named MyFirstProgram.java to print: ✅
+- Create a program to take the following as command line inputs from the user and printing them: ✅ 
+        o	Your name
+        o	Roll number
+        o	Department
+        o	Email
+- create a java program that declare 
