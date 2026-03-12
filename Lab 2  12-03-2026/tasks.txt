@@ -1,0 +1,13 @@
+1.	WAP using functions (methods) to find the sum of two numbers.
+2.	WAP to calculate the remainder of dividing two numbers and
+    print the output as "42 divided by 2 gives remainder 0".
+3.	Write a Java program to calculate the area and perimeter of a rectangle using arithmetic operators.
+4.	Write a Java program to calculate the average of three numbers.
+5.	Write a Java program to demonstrate the following bitwise operators on two numbers:
+    •	AND (&)
+    •	OR (|)
+    •	XOR (^)
+6.	Write a Java program to find the bitwise complement (~) of a number.
+7.	WAP to find the square root of a number using predefined method and also using user-defined method of square_root (without predefined).
+8.	Write a Java program that defines a method max taking two arguments to returns the largest of two numbers.
+9.	WAP a program to find the factorial of a number using recursion (using methods). (Optional Program)
