@@ -1,0 +1,25 @@
+Write a Java program to find the largest of three numbers.
+Write a Java program to check whether a character is a vowel or consonant.
+Write a Java program to calculate grade based on marks:
+
+	•	90+ → A
+	•	75–89 → B
+	•	50–74 → C
+	•	Below 50 → Fail
+
+Write a Java program using switch to print day of the week based on number (1–7).
+
+Write a Java program to check whether a number is a multiple of 10 or not.
+Write a Java program to print numbers from 100 to 1 using a while loop.
+
+Write a Java program to print the multiplication table of a given number.
+
+Write a Java program to calculate factorial of a number.
+
+Write a Java program to count number of digits in a number.
+
+Write a Java program to reverse a number.
+
+Write a Java program to find sum of digits of a number.
+
+Write a Java program to keep taking input until user enters 0.
