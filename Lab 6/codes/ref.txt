@@ -1,0 +1,13 @@
+
+1. create two different packages and demonstrate the accessibility of classes and their members using different 
+access specifiers(public, private, default and protected)
+2. create a package containing multiple classes and demonstrate how to access them from another package using 
+ (i).  importing all classes(package.*)
+ (ii).  importing specific classes
+ (iii).  using fully qualified class name
+3. Write a program to demonstrate that private members are not inherited in a subclass
+4. Write a java program consisting of a parent class and a child class, where each class contains two 
+constructor. Demonstrate constructor chaining such that, upon object creation of the child class, all constructor
+of both the parent and child classes are invoked
+5. Write a java Program that accepts a sentence(group of words) as command-line input. The program should count 
+the total number of characters in all the words excluding spaces

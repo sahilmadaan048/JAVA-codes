@@ -1,0 +1,15 @@
+Lab 5
+1.	Write a Java Program to demonstrate all the three types (Single, Hierarchical, & Multilevel) Inheritance.
+2.	Write a Java program to create a class Person with:
+•	Private variable: name 
+•	Public methods: 
+o	setName(String n) 
+o	getName() 
+Create an object and access the variable using getter and setter methods.
+3.	Write a Java program to demonstrate protected access modifier:
+•	Create a class Parent with protected variable value 
+•	Create a subclass Child those accesses and displays the value 
+Create an object of Child and display the result.
+4.	Write a Java program to access a class (say Scanner or some userdefined) from a package using fully qualified name without using import statement.
+5.	Write a Java program to create a class DatabaseConnection that implements the Singleton Design Pattern. The Singleton pattern means that only one object of a class can be created from outside the class.
+6.	Write a Java program to create a class Printer that implements the Doubleton Design Pattern. The Doubleton pattern means that only two objects of a class can be created from outside the class.
