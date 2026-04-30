@@ -1,0 +1,10 @@
+Lab 9: Strings
+
+1.	Write a program to reverse a string without using built-in reverse functions.
+2.	Write a program to count the number of words in a string (with and without split() method).
+3.	Create a program to remove duplicate characters from a string.
+4.	Write a program to find the frequency of each character in a string.
+5.	Create a program to capitalize the first letter of each word in a sentence.
+6.	Write a program to create three strings and compare each pair of strings using the compareTo() method. Display the numeric values returned by each comparison.
+7.	Write a program to implement your own version of equals() method for string comparison (without using equals() or compareTo()).
+8.	Write a program to compare one string created using a literal and another using the new keyword using both == and equals().

@@ -1,0 +1,17 @@
+Lab 7: Abstraction
+
+1.	Write an Abstract Class Vehicle having 4 methods (mix of concrete and abstract methods) to achieve 50 % abstraction. Provide the implementation of abstract class in subclasses, say Car and Truck.
+
+2.	Write a program to demonstrate that abstract classes cannot be instantiated, but can be referenced using superclass references.
+
+3.	Write a program to demonstrate that Abstract classes can have constructors and are called during object creation of subclasses.
+
+4.	Write a program to demonstrate the use of final methods inside an abstract class and show that they cannot be overridden.
+
+5.	Create an interface Animal with  abstract methods sound() and sleep() and having default and static methods, and implement it in other classes.
+
+6.	Write a program where an interface is extended by another interface and implemented by a class.
+
+7.	Develop a program where a class implements an interface but does not override all methods and hence must be declared abstract.
+
+8.	Write a Program in which an abstract class providing implementation (implements) to an interface, and a concrete class extends the abstract class to provide the implementation to the abstract class.
