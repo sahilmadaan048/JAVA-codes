@@ -1,0 +1,18 @@
+Lab 9: Exception Handling and Multithreading
+
+
+1.	Create a user-defined exception for insufficient bank balance during withdrawal.
+
+2.	Write a program to demonstrate the use of multiple catch blocks for handling different types of exceptions.
+
+3.	Write a program to demonstrate the use of throws keyword with checked exceptions to postpone the handling of checked exception.
+
+4.	Write a program and create multiple threads in it and then display the name, priority, and state of the currently executing thread. Also, try to assign custom names  and priority to the threads
+
+5.	Write a program to demonstrate that a daemon thread terminates automatically after all user threads finish execution.
+
+6.	Write a program to simulate a bank account system where multiple threads perform deposit and withdrawal operations on the same account.
+
+7.	Write a program in which one thread is displaying the even numbers while other thread is displaying the odd numbers. If output is mixed, then apply synchronization on them so that output is not mixed. 
+
+8.	Develop a movie theater seat booking system using multithreading and synchronization.
