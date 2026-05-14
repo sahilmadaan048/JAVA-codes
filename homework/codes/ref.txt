@@ -1,0 +1,15 @@
+1. Create a class `Calculator` that demonstrates method overloading by performing operations on different data types (`int`, `float`, `double`) and varying number of parameters.
+
+2. Develop a program where a superclass defines a generic method (e.g., `displayDetails()`), and subclasses provide specialized implementations.
+
+3. Write a program to demonstrate that method overriding requires the same method signature and analyze cases where it fails due to modified parameters.
+
+4. Write a program to demonstrate method overriding with covariant return types (child class returning a more specific type than parent).
+
+5. Develop a program to show that private methods cannot be overridden and analyze the behavior.
+
+6. Create a program to demonstrate overriding rules related to:
+
+   * Access modifiers (increasing visibility)
+   * Changing the return types
+   * Parameter consistency
