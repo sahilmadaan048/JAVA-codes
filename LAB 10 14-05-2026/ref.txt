@@ -1,0 +1,5 @@
+1. Design a GUI application first using AWT and then implement the same application using Swing components. The application should contain a combo box or checkbox, and upon selecting an option, a dialog box should be displayed asking the user whether they accept the terms and conditions.
+
+
+
+2. Develop a GUI-based Login and Registration System using Swing, Event Handling, and JDBC. The GUI should contain appropriate components for user registration, including fields for Name, Username, Password, Gender, Hobbies, etc., along with Register, Login, and Clear buttons. On clicking the Register button, the entered details should be stored in the database, and a dialog box displaying “User Registered” should appear. On clicking the Login button, the system should validate the entered username and password from the database. If the credentials are valid, a “Login Successful” dialog box should be displayed; otherwise, an “Invalid User” dialog box should appear. The Clear button should reset all input fields.
